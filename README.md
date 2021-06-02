@@ -44,8 +44,9 @@ Some useful Rust-based, cross-platform CLI and GUI programs.
 - [espanso](https://espanso.org/) - Text Expander written in Rust.
 - [eureka](https://github.com/simeg/eureka) - Enter and store your ideas without leaving the terminal.
 - [fselect](https://github.com/jhspetersson/fselect) - Find files with SQL-like queries.
-- [hexyl](https://github.com/sharkdp/hexyl) - A command-line hex viewer.
 - [grex](https://github.com/pemistahl/grex) - Generate regular expressions from user-provided test cases.
+- [helix](https://helix-editor.com/) - A post-modern text editor.
+- [hexyl](https://github.com/sharkdp/hexyl) - A command-line hex viewer.
 - [hyperfine](https://github.com/sharkdp/hyperfine) - A Rust-based command-line benchmarking tool.
 - [kiro-editor](https://github.com/rhysd/kiro-editor) - A UTF-8 console text editor written in Rust.
 - [lscolors](https://github.com/sharkdp/lscolors) - A Rust library and tool to colorize paths using `LS_COLORS`.
@@ -55,7 +56,7 @@ Some useful Rust-based, cross-platform CLI and GUI programs.
 - [tealdeer](https://github.com/dbrgn/tealdeer) - A very fast implementation of tldr in Rust. 
 - [topgrade](https://github.com/r-darwish/topgrade) - Upgrade everything.
 - [vivid](https://github.com/sharkdp/vivid) -  A `LS_COLORS` generator. Supports multiple color themes.
-- [xi-editor](https://github.com/xi-editor/xi-editor) - A modern editor with a backend written in Rust.
+- [xi-editor](https://github.com/xi-editor/xi-editor) - A modern text editor with a backend written in Rust.
 - [zoxide](https://github.com/ajeetdsouza/zoxide) - A faster way to navigate your filesystem.
 
 ### Author
