@@ -36,28 +36,58 @@ for current system tools/commands. The easiest way to use them as replacements i
 
 ### Oxidized Applications.
 
-Some useful Rust-based, cross-platform CLI and GUI programs.
+Some useful Rust-based, cross-platform TUI and GUI programs.
 
-- [alacritty](https://github.com/alacritty/alacritty) - GPU-accelerated terminal emulator.
+#### Encryption
+
+- [gpg-tui](https://github.com/orhun/gpg-tui) - Manage your GnuPG keys with ease! 🔐
+
+#### Networking
+
 - [bandwhich](https://github.com/imsnif/bandwhich) - Terminal bandwidth utilization tool.
 - [dog](https://dns.lookup.dog/) - Command-line DNS client.
-- [espanso](https://espanso.org/) - Text Expander written in Rust.
-- [eureka](https://github.com/simeg/eureka) - Enter and store your ideas without leaving the terminal.
+
+#### Shells
+
+- [nushell](https://github.com/nushell/nushell) - A new type of UNIX shell.
+
+#### Shells Utilities
+
 - [fselect](https://github.com/jhspetersson/fselect) - Find files with SQL-like queries.
 - [grex](https://github.com/pemistahl/grex) - Generate regular expressions from user-provided test cases.
-- [helix](https://helix-editor.com/) - A post-modern text editor.
-- [hexyl](https://github.com/sharkdp/hexyl) - A command-line hex viewer.
-- [hyperfine](https://github.com/sharkdp/hyperfine) - A Rust-based command-line benchmarking tool.
-- [kiro-editor](https://github.com/rhysd/kiro-editor) - A UTF-8 console text editor written in Rust.
-- [lscolors](https://github.com/sharkdp/lscolors) - A Rust library and tool to colorize paths using `LS_COLORS`.
-- [nushell](https://github.com/nushell/nushell) - A new type of UNIX shell.
-- [ox](https://github.com/curlpipe/ox) - Ox is a fast text editor that runs in your terminal.
 - [pastel](https://github.com/sharkdp/pastel) - CLI tool to generate, convert, and manipulate colors.
 - [tealdeer](https://github.com/dbrgn/tealdeer) - A very fast implementation of tldr in Rust. 
 - [topgrade](https://github.com/r-darwish/topgrade) - Upgrade everything.
 - [vivid](https://github.com/sharkdp/vivid) -  A `LS_COLORS` generator. Supports multiple color themes.
-- [xi-editor](https://github.com/xi-editor/xi-editor) - A modern text editor with a backend written in Rust.
 - [zoxide](https://github.com/ajeetdsouza/zoxide) - A faster way to navigate your filesystem.
+
+#### Terminal Emulators
+
+- [alacritty](https://github.com/alacritty/alacritty) - GPU-accelerated terminal emulator.
+
+#### Text Editors
+
+- [amp](https://amp.rs/) - A Vi/Vim inspired text editor.
+- [helix](https://helix-editor.com/) - A post-modern text editor.
+- [Kibi](https://github.com/ilai-deutel/kibi) - A text editor in ≤1024 lines of code.
+- [kiro-editor](https://github.com/rhysd/kiro-editor) - A UTF-8 console text editor written in Rust.
+- [m](https://github.com/jinfagang/m) - Modern, easy to use, fast terminal editor.
+- [ox](https://github.com/curlpipe/ox) - Ox is a fast text editor that runs in your terminal.
+- [smith](https://github.com/IGI-111/Smith) - A simple text editor written in Rust.
+- [xi-editor](https://github.com/xi-editor/xi-editor) - A modern text editor with a backend written in Rust.
+- [zee](https://github.com/mcobzarenco/zee) - Modern TUI text editor.
+
+#### Utilities
+
+- [crowbook](https://github.com/lise-henry/crowbook) - Converts books written in Markdown.
+- [espanso](https://espanso.org/) - Text Expander written in Rust.
+- [eureka](https://github.com/simeg/eureka) - Enter and store your ideas without leaving the terminal.
+- [hexyl](https://github.com/sharkdp/hexyl) - A command-line hex viewer.
+- [hyperfine](https://github.com/sharkdp/hyperfine) - A Rust-based command-line benchmarking tool.
+- [lscolors](https://github.com/sharkdp/lscolors) - A Rust library and tool to colorize paths using `LS_COLORS`.
+- [mdBook](https://github.com/rust-lang/mdBook) - Like Gitbook but implemented in Rust.
+- [mdcat](https://github.com/lunaryorn/mdcat) - `cat` for markdown.
+- [zola](https://www.getzola.org/) - Your one-stop static site engine.
 
 ### Author
 
