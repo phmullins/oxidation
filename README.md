@@ -1,4 +1,4 @@
-### Oxidation 🦀
+### 🦀  Oxidation 🦀
 
 Oxidation is a list of [Rust](https://www.rust-lang.org/)-based command-line, TUI, and GUI tools. This list started out 
 as a way to track oxidized recreations of [coreutils](https://www.gnu.org/software/coreutils/) utilities. It quickly 
@@ -9,7 +9,7 @@ will find that these Rust-based equivalent tools typically implement **most** of
 of awesome oxidized utilities when I first compiled this list. Please feel free to contact me with anything that you feel 
 should be added, or issue a pull request and I'll get to it as soon as I can. Thanks!
 
-### Core Utilities 🦀
+### 🦀 Core Utilities
 
 Rust-based replacements for `coreutils` system commands. You can easily use all of these tools as replacements for your
 current system tools/commands. The easiest way to implement this change is via aliases. Not sure where to start? Take a 
@@ -37,28 +37,28 @@ look at the documentation for your particular shell and how it handles aliases.
 - [ytop](https://github.com/cjbassi/ytop) - A system monitor written in Rust.
 - [zenith](https://github.com/bvaisvil/zenith) - a `top` and `htop` replacement. 
 
-#### (🦀) Email Clients and Utilities
+#### 🦀  Email Clients and Utilities
 
 - [meli](https://git.meli.delivery/meli/meli) - BSD/Linux terminal email client.
 
-#### Encryption Utilities 🦀
+#### 🦀  Encryption Utilities
 
 - [cloaker](https://github.com/spieglt/cloaker) - Drag-and-drop, password-based file encryption.
 - [gpg-tui](https://github.com/orhun/gpg-tui) - Manage your GnuPG keys with ease! 🔐
 - [rage](https://github.com/str4d/rage) - Modern encryption tool (and Rust library). 
 
-#### File Managers & File Utilities 🦀
+#### 🦀 File Managers & File Utilities
 
 - [hunter](https://github.com/rabite0/hunter) - The fastest file manager in the galaxy! 
 
-#### Games & Gaming Utilities 🦀
+#### 🦀 Games & Gaming Utilities
 
 - [bevy](https://bevyengine.org/) - Data-driven game engine built in Rust.
 - [gameboy](https://github.com/mohanson/gameboy) - A Rust-based Gameboy emulator.
 - [nestur](https://github.com/spieglt/nestur) - Rust-based NES emulator.
 - [rust-doom](https://github.com/cristicbz/rust-doom) - A Doom Renderer written in Rust. 
 
-#### Graphics Utilities and Image Viewers 🦀
+#### 🦀 Graphics Utilities and Image Viewers
 
 - [viu](https://github.com/atanunq/viu) - Simple terminal image viewer written in Rust. 
 
@@ -66,18 +66,18 @@ look at the documentation for your particular shell and how it handles aliases.
 
 - [gurk-rs](https://github.com/boxdot/gurk-rs) - Signal Messenger client for terminal.
 
-#### Networking Utilities 🦀
+#### 🦀 Networking Utilities
 
 - [bandwhich](https://github.com/imsnif/bandwhich) - Terminal bandwidth utilization tool.
 - [dog](https://dns.lookup.dog/) - Command-line DNS client.
 - [miniserve](https://github.com/svenstaro/miniserve) - HTTP File server.
 
-#### Programming Utilities
+#### 🦀 Programming Utilities
 
 - [delta](https://github.com/dandavison/delta) - A viewer for git and diff output.
 - [silicon](https://github.com/Aloxaf/silicon) - Create beautiful images of your source code. 
 
-#### Shell Utilities 🦀
+#### 🦀 Shell Utilities
 
 - [fselect](https://github.com/jhspetersson/fselect) - Find files with SQL-like queries.
 - [grex](https://github.com/pemistahl/grex) - Generate regular expressions from user-provided test cases.
@@ -87,12 +87,12 @@ look at the documentation for your particular shell and how it handles aliases.
 - [vivid](https://github.com/sharkdp/vivid) -  A `LS_COLORS` generator. Supports multiple color themes.
 - [zoxide](https://github.com/ajeetdsouza/zoxide) - A faster way to navigate your filesystem.
 
-#### Terminal Emulators 🦀
+#### 🦀 Terminal Emulators
 
 - [alacritty](https://github.com/alacritty/alacritty) - GPU-accelerated terminal emulator.
 - [bite](https://github.com/LarsEKrueger/bite) - Bash-integrated terminal emulator.
 
-#### Text Editors 🦀
+#### 🦀 Text Editors
 
 - [amp](https://amp.rs/) - A Vi/Vim inspired text editor.
 - [helix](https://helix-editor.com/) - A post-modern text editor.
@@ -104,13 +104,13 @@ look at the documentation for your particular shell and how it handles aliases.
 - [xi-editor](https://github.com/xi-editor/xi-editor) - A modern text editor with a backend written in Rust.
 - [zee](https://github.com/mcobzarenco/zee) - Modern TUI text editor.
 
-#### UNIX Shells 🦀
+#### 🦀 UNIX Shells
 
 - [cicada](https://github.com/mitnk/cicada) - A Bash-like UNIX shell written in Rust.
 - [ion](https://gitlab.redox-os.org/redox-os/ion) - A UNIX shell compatible with Redox and Linux.
 - [nushell](https://github.com/nushell/nushell) - A cross-platform UNIX shell with a modern feel.
 
-#### Utilities (General) 🦀
+#### 🦀 Utilities (General)
 
 - [crowbook](https://github.com/lise-henry/crowbook) - Converts books written in Markdown.
 - [espanso](https://espanso.org/) - Text Expander written in Rust.
@@ -125,7 +125,7 @@ look at the documentation for your particular shell and how it handles aliases.
 - [rustybox](https://github.com/samuela/rustybox) - A free-range, non-GMO fork of busybox in 100% Rust 🦀
 - [zola](https://www.getzola.org/) - Your one-stop static site engine.
 
-#### Windows Managers 🦀
+#### 🦀 Windows Managers
 
 - [LeftWM](https://github.com/leftwm/leftwm) - A tiling window manager for adventurers. 
 - [penrose](https://github.com/sminez/penrose) - A library for writing an X11 tiling window manager.
