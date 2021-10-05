@@ -50,6 +50,7 @@ look at the documentation for your particular shell and how it handles aliases.
 ### 🦀 File Managers & File Utilities
 
 - [hunter](https://github.com/rabite0/hunter) - The fastest file manager in the galaxy! 
+- [joshuto](https://github.com/kamiyaa/joshuto) - Ranger-like terminal file manager.
 
 ### 🦀 Games & Gaming Utilities
 
