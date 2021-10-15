@@ -39,6 +39,7 @@ look at the documentation for your particular shell and how it handles aliases.
 
 ### 🦀 Email Clients and Utilities
 
+- [himalaya](https://github.com/soywod/himalaya) - CLI email client written in Rust.
 - [meli](https://git.meli.delivery/meli/meli) - BSD/Linux terminal email client.
 
 ### 🦀 Encryption Utilities
