@@ -77,6 +77,7 @@ look at the documentation for your particular shell and how it handles aliases.
 ### 🦀 Programming Utilities
 
 - [delta](https://github.com/dandavison/delta) - A viewer for git and diff output.
+- [gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [silicon](https://github.com/Aloxaf/silicon) - Create beautiful images of your source code. 
 
 ### 🦀 Shell Utilities
@@ -93,6 +94,7 @@ look at the documentation for your particular shell and how it handles aliases.
 
 - [alacritty](https://github.com/alacritty/alacritty) - GPU-accelerated terminal emulator.
 - [bite](https://github.com/LarsEKrueger/bite) - Bash-integrated terminal emulator.
+- [warp](https://www.warp.dev/) - The terminal that supercharges your developer workflow.
 
 ### 🦀 Text Editors
 
