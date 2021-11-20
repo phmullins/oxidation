@@ -84,6 +84,7 @@ look at the documentation for your particular shell and how it handles aliases.
 
 - [fselect](https://github.com/jhspetersson/fselect) - Find files with SQL-like queries.
 - [grex](https://github.com/pemistahl/grex) - Generate regular expressions from user-provided test cases.
+- [onefetch](https://github.com/o2sh/onefetch) - A command-line Git information tool written in Rust.
 - [pastel](https://github.com/sharkdp/pastel) - CLI tool to generate, convert, and manipulate colors.
 - [tealdeer](https://github.com/dbrgn/tealdeer) - A very fast implementation of tldr in Rust. 
 - [topgrade](https://github.com/r-darwish/topgrade) - Upgrade everything.
