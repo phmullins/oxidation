@@ -78,6 +78,7 @@ look at the documentation for your particular shell and how it handles aliases.
 
 - [delta](https://github.com/dandavison/delta) - A viewer for git and diff output.
 - [gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
+- [rust-playground](https://play.rust-lang.org/) - Experiment with Rust before you install it locally.
 - [silicon](https://github.com/Aloxaf/silicon) - Create beautiful images of your source code. 
 
 ### 🦀 Shell Utilities
