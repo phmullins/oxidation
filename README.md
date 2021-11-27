@@ -78,8 +78,11 @@ look at the documentation for your particular shell and how it handles aliases.
 
 - [delta](https://github.com/dandavison/delta) - A viewer for git and diff output.
 - [gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
+- [rocket](https://rocket.rs/) - Premiere Web framework for Rust.
 - [rust-playground](https://play.rust-lang.org/) - Experiment with Rust before you install it locally.
-- [silicon](https://github.com/Aloxaf/silicon) - Create beautiful images of your source code. 
+- [silicon](https://github.com/Aloxaf/silicon) - Create beautiful images of your source code.
+- [tide](https://docs.rs/tide/0.16.0/tide/) - Web framework for Rust.
+- [warp](https://github.com/seanmonstar/warp) - Web framework for Rust.
 
 ### 🦀 Shell Utilities
 
