@@ -57,6 +57,7 @@ look at the documentation for your particular shell and how it handles aliases.
 
 - [bevy](https://bevyengine.org/) - Data-driven game engine built in Rust.
 - [gameboy](https://github.com/mohanson/gameboy) - A Rust-based Gameboy emulator.
+- [Life Simulation](https://github.com/joelthelion/life_web) - Life simulation written in Rust.
 - [nestur](https://github.com/spieglt/nestur) - Rust-based NES emulator.
 - [rust-doom](https://github.com/cristicbz/rust-doom) - A Doom Renderer written in Rust. 
 
