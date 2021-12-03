@@ -105,6 +105,7 @@ look at the documentation for your particular shell and how it handles aliases.
 ### 🦀 Text Editors
 
 - [amp](https://amp.rs/) - A Vi/Vim inspired text editor.
+- [eureka](https://github.com/simeg/eureka) - Tool to input and store your ideas.
 - [helix](https://helix-editor.com/) - A post-modern text editor.
 - [Kibi](https://github.com/ilai-deutel/kibi) - A text editor in ≤1024 lines of code.
 - [kiro-editor](https://github.com/rhysd/kiro-editor) - A UTF-8 console text editor written in Rust.
