@@ -78,6 +78,7 @@ look at the documentation for your particular shell and how it handles aliases.
 ### 🦀 Programming Utilities
 
 - [delta](https://github.com/dandavison/delta) - A viewer for git and diff output.
+- [druid](https://github.com/linebender/druid) - A data-first Rust-native UI design toolkit. 
 - [gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in Rust. 🦀
 - [lpsce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust. 🦀
 - [rocket](https://rocket.rs/) - Premiere Web framework for Rust.
