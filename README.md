@@ -81,6 +81,7 @@ look at the documentation for your particular shell and how it handles aliases.
 - [druid](https://github.com/linebender/druid) - A data-first Rust-native UI design toolkit. 
 - [gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in Rust. 🦀
 - [lpsce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust. 🦀
+- [rg3d](https://rg3d.rs/) - A feature-rich and easy-to-use game engine written in the Rust.
 - [rocket](https://rocket.rs/) - Premiere Web framework for Rust.
 - [rust-playground](https://play.rust-lang.org/) - Experiment with Rust before you install it locally.
 - [silicon](https://github.com/Aloxaf/silicon) - Create beautiful images of your source code.
