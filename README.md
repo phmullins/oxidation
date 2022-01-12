@@ -77,6 +77,7 @@ look at the documentation for your particular shell and how it handles aliases.
 
 ### 🦀 Programming Utilities
 
+- [bevy](https://bevyengine.org/) - Simple data-driven game engine built in Rust.
 - [delta](https://github.com/dandavison/delta) - A viewer for git and diff output.
 - [druid](https://github.com/linebender/druid) - A data-first Rust-native UI design toolkit. 
 - [gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in Rust. 🦀
