@@ -33,7 +33,6 @@ look at the documentation for your particular shell and how it handles aliases.
 - [ripgrep](https://github.com/BurntSushi/ripgrep) - a `grep` replacement.
 - [sd](https://github.com/chmln/sd) - a `sed` replacement.
 - [skim](https://github.com/lotabout/skim) - a Fuzzy Finder in Rust.
-- [tokei](https://github.com/XAMPPRocky/tokei) - a `wc` replacement.
 - [ytop](https://github.com/cjbassi/ytop) - A system monitor written in Rust.
 - [zenith](https://github.com/bvaisvil/zenith) - a `top` and `htop` replacement. 
 
@@ -87,6 +86,7 @@ look at the documentation for your particular shell and how it handles aliases.
 - [rust-playground](https://play.rust-lang.org/) - Experiment with Rust before you install it locally.
 - [silicon](https://github.com/Aloxaf/silicon) - Create beautiful images of your source code.
 - [tide](https://docs.rs/tide/0.16.0/tide/) - Web framework for Rust.
+- [tokei](https://github.com/XAMPPRocky/tokei) - displays statistics about your code.
 - [warp](https://github.com/seanmonstar/warp) - Web framework for Rust.
 
 ### 🦀 Shell Utilities
@@ -95,6 +95,7 @@ look at the documentation for your particular shell and how it handles aliases.
 - [grex](https://github.com/pemistahl/grex) - Generate regular expressions from user-provided test cases.
 - [onefetch](https://github.com/o2sh/onefetch) - A command-line Git information tool written in Rust.
 - [pastel](https://github.com/sharkdp/pastel) - CLI tool to generate, convert, and manipulate colors.
+- [starship](https://starship.rs/) - The minimal, blazing-fast, and infinitely customizable prompt for any shell.
 - [tealdeer](https://github.com/dbrgn/tealdeer) - A very fast implementation of tldr in Rust. 
 - [topgrade](https://github.com/r-darwish/topgrade) - Upgrade everything.
 - [vivid](https://github.com/sharkdp/vivid) -  A `LS_COLORS` generator. Supports multiple color themes.
@@ -127,9 +128,11 @@ look at the documentation for your particular shell and how it handles aliases.
 
 ### 🦀 Utilities (General)
 
+- [bandwhich](https://github.com/imsnif/bandwhich) - Terminal bandwidth utilization tool.
 - [crowbook](https://github.com/lise-henry/crowbook) - Converts books written in Markdown.
 - [espanso](https://espanso.org/) - Text Expander written in Rust.
 - [eureka](https://github.com/simeg/eureka) - Enter and store your ideas without leaving the terminal.
+- [grex](https://github.com/pemistahl/grex) - Generates regular expressions from user-provided test cases.
 - [hexyl](https://github.com/sharkdp/hexyl) - A command-line hex viewer.
 - [hyperfine](https://github.com/sharkdp/hyperfine) - A Rust-based command-line benchmarking tool.
 - [lscolors](https://github.com/sharkdp/lscolors) - A Rust library and tool to colorize paths using `LS_COLORS`.
