@@ -21,6 +21,7 @@ look at the documentation for your particular shell and how it handles aliases.
 - [bottom](https://github.com/ClementTsang/bottom) - Graphical process/system monitor.
 - [broot](https://github.com/Canop/broot) - a `tree` replacement.
 - [delta](https://github.com/dandavison/delta) - a `diff` replacement.
+- [difftastic](https://github.com/Wilfred/difftastic) - a `diff` that understands syntax.
 - [diskus](https://github.com/sharkdp/diskus) - an alternative to `du -sh` 
 - [dust](https://github.com/bootandy/dust) - another `du` replacement.
 - [exa](https://the.exa.website) - a `ls` replacement.
