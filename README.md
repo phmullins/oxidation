@@ -79,7 +79,8 @@ look at the documentation for your particular shell and how it handles aliases.
 
 - [bevy](https://bevyengine.org/) - Simple data-driven game engine built in Rust.
 - [delta](https://github.com/dandavison/delta) - A viewer for git and diff output.
-- [druid](https://github.com/linebender/druid) - A data-first Rust-native UI design toolkit. 
+- [druid](https://github.com/linebender/druid) - A data-first Rust-native UI design toolkit.
+- [git-cliff](https://github.com/orhun/git-cliff) - Changelog Generator.
 - [gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in Rust. 🦀
 - [lpsce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust. 🦀
 - [rg3d](https://rg3d.rs/) - A feature-rich and easy-to-use game engine written in the Rust.
@@ -92,6 +93,8 @@ look at the documentation for your particular shell and how it handles aliases.
 
 ### 🦀 Shell Utilities
 
+- [atuin](https://github.com/ellie/atuin) - 🐢 Magical shell history.
+- [bartb](https://github.com/nikolassv/bartib) - A simple timetracker for the command line.
 - [fselect](https://github.com/jhspetersson/fselect) - Find files with SQL-like queries.
 - [grex](https://github.com/pemistahl/grex) - Generate regular expressions from user-provided test cases.
 - [onefetch](https://github.com/o2sh/onefetch) - A command-line Git information tool written in Rust.
