@@ -145,6 +145,7 @@ look at the documentation for your particular shell and how it handles aliases.
 - [mdBook](https://github.com/rust-lang/mdBook) - Like Gitbook but implemented in Rust.
 - [mdcat](https://github.com/lunaryorn/mdcat) - `cat` for markdown.
 - [rustybox](https://github.com/samuela/rustybox) - A free-range, non-GMO fork of busybox in 100% Rust 🦀
+- [tv](https://github.com/alexhallam/tv) - Tidy Viewer is a CSV output formatter.
 - [zola](https://www.getzola.org/) - Your one-stop static site engine.
 
 ### 🦀 Windows Managers
