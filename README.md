@@ -50,8 +50,10 @@ look at the documentation for your particular shell and how it handles aliases.
 
 ### 🦀 File Managers & File Utilities
 
+- [felix](https://github.com/kyoheiu/felix) - TUI file manager with vim-like key mapping.
 - [hunter](https://github.com/rabite0/hunter) - The fastest file manager in the galaxy! 
 - [joshuto](https://github.com/kamiyaa/joshuto) - Ranger-like terminal file manager.
+- [xplr](https://github.com/sayanarijit/xplr) - A hackable, minimal, fast TUI file explorer.
 
 ### 🦀 Games & Gaming Utilities
 
