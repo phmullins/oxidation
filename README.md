@@ -89,6 +89,7 @@ look at the documentation for your particular shell and how it handles aliases.
 - [rocket](https://rocket.rs/) - Premiere Web framework for Rust.
 - [rust-playground](https://play.rust-lang.org/) - Experiment with Rust before you install it locally.
 - [silicon](https://github.com/Aloxaf/silicon) - Create beautiful images of your source code.
+- [terminal-size](https://github.com/sharkdp/terminal-size) - Rust library to getting the size of your terminal.
 - [tide](https://docs.rs/tide/0.16.0/tide/) - Web framework for Rust.
 - [tokei](https://github.com/XAMPPRocky/tokei) - displays statistics about your code.
 - [warp](https://github.com/seanmonstar/warp) - Web framework for Rust.
