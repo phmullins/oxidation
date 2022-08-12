@@ -87,6 +87,7 @@ look at the documentation for your particular shell and how it handles aliases.
 - [lpsce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust. 🦀
 - [rg3d](https://rg3d.rs/) - A feature-rich and easy-to-use game engine written in the Rust.
 - [rocket](https://rocket.rs/) - Premiere Web framework for Rust.
+- [Rust Playground](https://github.com/cmyr/RustPlayground) - Quickly test Rust code on macOS.
 - [rust-playground](https://play.rust-lang.org/) - Experiment with Rust before you install it locally.
 - [silicon](https://github.com/Aloxaf/silicon) - Create beautiful images of your source code.
 - [terminal-size](https://github.com/sharkdp/terminal-size) - Rust library to getting the size of your terminal.
