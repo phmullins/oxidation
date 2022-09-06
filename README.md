@@ -84,7 +84,7 @@ look at the documentation for your particular shell and how it handles aliases.
 - [druid](https://github.com/linebender/druid) - A data-first Rust-native UI design toolkit.
 - [git-cliff](https://github.com/orhun/git-cliff) - Changelog Generator.
 - [gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in Rust. 🦀
-- [lpsce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust. 🦀
+- [lapsce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust. 🦀
 - [rg3d](https://rg3d.rs/) - A feature-rich and easy-to-use game engine written in the Rust.
 - [rocket](https://rocket.rs/) - Premiere Web framework for Rust.
 - [Rust Playground](https://github.com/cmyr/RustPlayground) - Quickly test Rust code on macOS.
