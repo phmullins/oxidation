@@ -143,6 +143,7 @@ look at the documentation for your particular shell and how it handles aliases.
 - [grex](https://github.com/pemistahl/grex) - Generates regular expressions from user-provided test cases.
 - [hexyl](https://github.com/sharkdp/hexyl) - A command-line hex viewer.
 - [hyperfine](https://github.com/sharkdp/hyperfine) - A Rust-based command-line benchmarking tool.
+- [jot](https://github.com/araekiel/jot) - Rapid note management for the terminal. 
 - [lscolors](https://github.com/sharkdp/lscolors) - A Rust library and tool to colorize paths using `LS_COLORS`.
 - [lychee](https://github.com/lycheeverse/lychee) - Fast, async, resource-friendly link checker.
 - [macchina](https://github.com/Macchina-CLI/macchina) - A system information fetcher.
